@@ -1,6 +1,13 @@
 title: HelloThere
-creator: danielo515
+creator: Ioannes
 type: text/vnd.tiddlywiki
 
-This is the demo wiki built automatically by [[travis-ci|http://travis-ci.org/]] following the instructions at
-the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]
+<div style="text-align: center;"><img src="piranhalogo.png" /></div>
+<h2 style="clear: both; text-align: center;">
+<b>THE <span style="background-color: #f3f3f3; color: #3d85c6;">LARGE PIRANHA</span> BLOG</b></h2>
+<h3 style="clear: both; text-align: center;">
+<span style="background-color: orange; color: #f3f3f3;">authored by Ioannes Rahul</span></h3>
+<h4 style="clear: both; text-align: center;">
+<span style="font-weight: normal;">copyright twenty eighteen<br />all rights reserved</span></h4>
+<div>
+<span style="font-weight: normal;"><br /></span>
